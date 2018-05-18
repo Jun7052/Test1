@@ -1,5 +1,5 @@
 package Management;
 
-public class Student {
+public class StudentDTO {
 
 }
